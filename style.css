@@ -11,6 +11,10 @@ body {
   background-position: top center;
 }
 
+article a {
+  margin-bottom: 20px;
+}
+
 .container {
   max-width: 928px;
   margin: 0 auto;
