@@ -165,6 +165,10 @@ body {
   color: #ffffff;
 }
 
+article {
+  margin:0 20px;
+}
+
 .page-footer {
   padding: 40px 0;
   background-color: #260c26;
